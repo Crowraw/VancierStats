@@ -1,9 +1,10 @@
+version 2.0
++added thing
+-removed thing
+*edited thing
+
 version 1.0
 +added thing
 -removed thing
 *edited thing
 
-version 2.0
-+added thing
--removed thing
-*edited thing
